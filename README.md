@@ -1,2 +1,2 @@
-# web1
+# Exercise
 first page
